@@ -35,7 +35,7 @@
     width: 90%;
     padding: 20px 10px;
     margin: 0px auto;
-    margin-top: 10px;
+    margin-top: 50px;
     /* animation: fade_up 2s; */
   }
   
@@ -62,7 +62,7 @@
     /* z-index: -1; */
   }
   .greeting-text {
-    font-size: 70px;
+    font-size: 60px;
     line-height: 1.1;
     margin-top: 5px;
   }

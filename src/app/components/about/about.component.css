@@ -46,8 +46,8 @@
     content: "";
     border: 15px solid rgba(55, 140, 63, 0.6);
     border-radius: 50%;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     padding: 11px;
     position: absolute;
     left: 0;
@@ -62,8 +62,8 @@
   .cc-profile-image img {
     position: relative;
     border-radius: 50%;
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     padding: 10px;
     margin: 0;
     border: 15px solid transparent;

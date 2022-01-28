@@ -33,15 +33,15 @@ export class Constants {
           duration: "Current",
           subtitle: "Infosys Limited, Chandigarh",
           content: "Full Stack Developer, master in developing modern webapps using Angular and Cloud based Microservices.",
-          className1: "mar-right",
-          className2: "prt_about_learnbox_left"
+          className1: "container left",
+          className2: "container right"
         },
         {
-          heading: "B.Tech. - Computer Science & Engineering",
+          heading: "Computer Science & Engineering",
           duration: "2018",
           subtitle: "Dr A.P.J. Abdul Kalam Technical University",
           content: "Secured 74.6% overall, E-Leader of Entrpreneurship & Innovation Cell and been active participant of various clubs.",
-          className1: "mar-left",
+          className1: "container right",
           className2: "prt_about_learnbox_right"
         },
         {
@@ -49,7 +49,7 @@ export class Constants {
             duration: "2014",
             subtitle: "CBSE Board",
             content: "Secured 89% with Physics, Chemistry, Maths, English and Computer Science as majors.",
-            className1: "mar-right",
+            className1: "container left",
             className2: "prt_about_learnbox_left"
           },
         {
@@ -57,7 +57,7 @@ export class Constants {
           duration: "2012",
           subtitle: "CBSE Board",
           content: "Secured CGPA 10 with merit in all 5 subjects.",
-          className1: "mar-left",
+          className1: "container right",
           className2: "prt_about_learnbox_right"
         }
         ];
