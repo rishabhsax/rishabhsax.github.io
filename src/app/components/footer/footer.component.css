@@ -1,0 +1,25 @@
+.footer-text {
+    text-align: center;
+    color: #55198b;
+    font-weight: 600;
+  }
+  
+  .footer-div {
+    margin-top: 5px;
+}
+
+.blinker{
+  animation: animate 1.5s linear infinite;
+}
+
+@keyframes animate{
+  0%{
+    opacity: 0;
+  }
+  50%{
+    opacity: 0.8;
+  }
+  100%{
+    opacity: 0;
+  }
+}
