@@ -32,7 +32,7 @@ export class Constants {
           heading: "Specialist Programmer",
           duration: "Current",
           subtitle: "Infosys Limited, Chandigarh",
-          content: "Full Stack Developer, master in developing modern webapps using Angular and Cloud based Microservices.",
+          content: "Full Stack Developer; Open-source contributor; Hackathons; Tutor-Mathematics",
           className1: "container left",
           className2: "container right"
         },
@@ -40,7 +40,7 @@ export class Constants {
           heading: "Computer Science & Engineering",
           duration: "2018",
           subtitle: "Dr A.P.J. Abdul Kalam Technical University",
-          content: "Secured 74.6% overall, E-Leader of Entrpreneurship & Innovation Cell and been active participant of various clubs.",
+          content: "E-Leader of Entrpreneurship & Innovation Cell; been active participant of various technical and cultural clubs; Member of Corporate Relations Committee.",
           className1: "container right",
           className2: "prt_about_learnbox_right"
         },
@@ -48,7 +48,7 @@ export class Constants {
             heading: "Higher Secondary (12th)",
             duration: "2014",
             subtitle: "CBSE Board",
-            content: "Secured 89% with Physics, Chemistry, Maths, English and Computer Science as majors.",
+            content: "Computer Science, Mathematics, Physics, Chemistry, , English as majors.",
             className1: "container left",
             className2: "prt_about_learnbox_left"
           },
@@ -56,7 +56,7 @@ export class Constants {
           heading: "Secondary Stage (10th)",
           duration: "2012",
           subtitle: "CBSE Board",
-          content: "Secured CGPA 10 with merit in all 5 subjects.",
+          content: "Secured CGPA 10 with merit in all subjects; inter school debate competitions; Computer Science Olympiads",
           className1: "container right",
           className2: "prt_about_learnbox_right"
         }
