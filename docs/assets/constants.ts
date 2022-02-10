@@ -25,7 +25,7 @@ export class Constants {
     public GITHUBLINK: any = "https://github.com/rishabhsax";
     public LINKEDINLINK: any = "https://www.linkedin.com/in/rishabhsax/";
     public GMAILLINK: any = "rishabh.saxena2@gmail.com";
-    public YOUTUBELINK: any = "#";
+    public YOUTUBELINK: any = "https://www.youtube.com/channel/UCRpSyVTun-JZrFY3sUn_YOA";
     public TIMELINETITLE: any = "Timeline";
     public TIMELINE = [
         {
@@ -40,7 +40,7 @@ export class Constants {
           heading: "Computer Science & Engineering",
           duration: "2018",
           subtitle: "Dr A.P.J. Abdul Kalam Technical University",
-          content: "E-Leader of Entrpreneurship & Innovation Cell; been active participant of various technical and cultural clubs; Member of Corporate Relations Committee.",
+          content: "E-Leader of Entrpreneurship & Innovation Cell; been active participant of various technical & cultural clubs; Member of Corporate Relations Committee.",
           className1: "container right",
           className2: "prt_about_learnbox_right"
         },
@@ -48,7 +48,7 @@ export class Constants {
             heading: "Higher Secondary (12th)",
             duration: "2014",
             subtitle: "CBSE Board",
-            content: "Computer Science, Mathematics, Physics, Chemistry, , English as majors.",
+            content: "Computer Science, Mathematics, Physics, English, & Chemistry as majors.",
             className1: "container left",
             className2: "prt_about_learnbox_left"
           },
@@ -56,7 +56,7 @@ export class Constants {
           heading: "Secondary Stage (10th)",
           duration: "2012",
           subtitle: "CBSE Board",
-          content: "Secured CGPA 10 with merit in all subjects; inter school debate competitions; Computer Science Olympiads",
+          content: "Secured CGPA 10 with Merit in All Subjects; inter-school Debate Competitions; Computer Science Olympiads",
           className1: "container right",
           className2: "prt_about_learnbox_right"
         }
